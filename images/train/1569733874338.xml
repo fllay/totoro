@@ -1,0 +1,26 @@
+<annotation>
+    <folder>mages</folder>
+    <filename>1569733874338.png</filename>
+    <path>/client/totoro/images/1569733874338.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>totoro</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>247</xmin>
+            <ymin>240</ymin>
+            <xmax>422</xmax>
+            <ymax>433</ymax>
+        </bndbox>
+    </object>
+</annotation>

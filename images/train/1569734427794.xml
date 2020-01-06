@@ -1,0 +1,26 @@
+<annotation>
+    <folder>mages</folder>
+    <filename>1569734427794.png</filename>
+    <path>/client/totoro/images/1569734427794.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>nekobus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>141</xmin>
+            <ymin>364</ymin>
+            <xmax>293</xmax>
+            <ymax>480</ymax>
+        </bndbox>
+    </object>
+</annotation>
