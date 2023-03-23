@@ -4,10 +4,10 @@
 
 item {
     id: 1
-    name:'totoro'
+    name:'tray'
 }
 
 item {
     id: 2
-    name: 'nekobus'
+    name: 'dough'
 }
